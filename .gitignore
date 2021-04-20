@@ -1,0 +1,8 @@
+# ignore config.py as it consists of sensitive info: login strings and such
+config.py
+
+# ignore ipython notebook checkpoints
+**/*.ipynb_checkpoints/
+
+# ignore pycache
+**/*__pycache__/

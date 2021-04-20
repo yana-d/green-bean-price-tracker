@@ -1,0 +1,17 @@
+name: green_bean_price_tracker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bs4
+  - requests
+  - pandas
+  - matplotlib
+  - jupyter
+  - html5lib
+  - seaborn
+  - ibm_db
+  - ipython-sql
+  - pip:
+    - ibm-db-sa
+prefix: C:\Users\Yana\miniconda3\envs\green_bean_price_tracker
