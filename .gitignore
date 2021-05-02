@@ -1,8 +1,8 @@
 # ignore config.py as it consists of sensitive info: login strings and such
 config.py
 
-# ignore ipython notebook checkpoints
+# ignore ipython notebook checkpoints to keep repo clean
 **/*.ipynb_checkpoints/
 
-# ignore pycache
+# ignore pycache to keep repo clean
 **/*__pycache__/
