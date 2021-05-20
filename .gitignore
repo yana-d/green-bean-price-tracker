@@ -1,8 +1,13 @@
 # ignore config.py as it consists of sensitive info: login strings and such
 config.py
 
-# ignore ipython notebook checkpoints to keep repo clean
+# we will ignore following folders to keep repo clean and neat 
+# ignore ipython notebook checkpoints 
 **/*.ipynb_checkpoints/
 
-# ignore pycache to keep repo clean
+# ignore pycache 
 **/*__pycache__/
+
+# ignore build and dist folders that auto created when building executable for Windows using pyinstaller
+**/*build/
+**/*dist/
