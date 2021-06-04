@@ -890,3 +890,147 @@ PANAMA,ARABICA SPOT,3,15,Finca Los Limones natural,natural,,"blueberry, raisin, 
 RWANDA,ARABICA SPOT,48,60,Rugali Screen 15up,washed,,"almond, green tea",Hamb,4.21,5.14,Factsheet,,2021-05-31
 RWANDA,ARABICA SPOT,1,30,Gisheke Natural,natural,,,Hamb,8.35,10.19,Factsheet,,2021-05-31
 UGANDA,ARABICA SPOT,305,60,Bugisu AB,washed,,,Hamb,3.74,4.56,,,2021-05-31
+BRAZIL,ARABICA SPOT,300,59,Santos NY2 17/18 s.s. fine cup Dulce,natural,,,Hamb,3.18,3.87,,,2021-06-04
+BRAZIL,ARABICA SPOT,220,59,Santos Aquarela NY2 17/18 s.s. fine cup,natural,,"chocolate, almond",Hamb,3.24,3.93,,,2021-06-04
+BRAZIL,ARABICA SPOT,400,59,Mogiana Bella Giana NY2 17/18 s.s. fine cup pulped natural,pulped natural,,cream,Hamb,3.38,4.11,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,67,59,Santos NY2 Screen 19 s.s. fine cup,natural,,"hazelnut, almond, milk chocolate",Hamb,3.67,4.46,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,16,59,Donas do Café Project NY2 16up pulped natural,pulped natural,,"fig, almond, cream",Hamb,3.76,4.56,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,2,59,Fazenda Primavera NY2 Screen 17/18 pulped natural,pulped natural,RFA,"caramel, nutty, milk chocolate",Hamb,3.8,4.62,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,90,59,Fazenda Mariano NY2 16up Yellow Bourbon pulped natural,pulped natural,,"almond, honey, chocolate",Hamb,3.85,4.67,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,25,59,Fazenda Passeio NY2 16up pulped natural,pulped natural,,"molasses, honey, floral",Hamb,4.18,5.07,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,8,59,Fazenda Capoeira 'Terra Preta' NY2 16up pulped natural,pulped natural,,"molasses, hazelnut, malic",Hamb,4.21,5.11,Factsheet,,2021-06-04
+BRAZIL,DECAFFEINATED,55,60,Cerrado Doce Diamantina NY2 16up DCM Decaffeinated,DCM decaf,,"nougat, roasted hazelnut, silky",Hamb,4.67,5.67,,,2021-06-04
+BRAZIL,DECAFFEINATED,94,60,Cerrado Doce Diamantina NY2 16up CO² Decaffeinated,CO² decaf,,"nougat, roasted hazelnut, silky",Hamb,5.22,6.33,,,2021-06-04
+BRAZIL,ARABICA SPOT,2,60,Fazendas Dutra NY2/3 14/16 s.s. fine cup Organic,natural,ORG,"molasses, caramel, milk chocolate",Hamb,5.91,7.17,,,2021-06-04
+COLOMBIA,ARABICA SPOT,26,10,Las Margaritas Red Bourbon honey,honey,,"mango, nougat, papaya",Hamb,14.84,18.01,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Geisha Hybrid double fermentation,hybrid,,"blackberry, Jasmine, lemongrass",Hamb,39.26,47.66,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,103,70,Hacienda La Claudina,washed,,"tropical, stone fruit, choc",Hamb,4.58,5.56,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,28,70,Excelso EP Rainforest Alliance,washed,RFA,"tropical, nuts, nougat, juicy",Hamb,4.71,5.72,,,2021-06-04
+COLOMBIA,ARABICA SPOT,577,70,Supremo EP Screen 17 Finca La Secreta,washed,,"mirabelle, papaya, herbal",Hamb,4.82,5.85,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,10,70,Supremo EP Screen 17 Huila 'Rafael',washed,,"chocolate, tropical, stone fruit",Hamb,4.84,5.87,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,190,70,Colombia Excelso EP Antioquia,washed,,"chocolate, tropical, stone fruit",Hamb,4.84,5.87,,,2021-06-04
+COLOMBIA,ARABICA SPOT,282,70,Excelso EP Palermo,washed,,"peach, cream, tropical fruits",Hamb,4.87,5.92,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Pacamara X.O.,natural,,"plum, dark chocolate, whisky",Hamb,44.71,54.28,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,3,70,Excelso EP Organic,washed,ORG,"tropical fruits, caramel",Hamb,5.16,6.27,,,2021-06-04
+COLOMBIA,DECAFFEINATED,9,60,Colombia Supremo Huila DCM Decaffeinated,DCM decaf,,"dark chocolate, almond",Hamb,5.78,7.02,,,2021-06-04
+COLOMBIA,ARABICA SPOT,14,10,Potosi Pink Bourbon natural anaerobic,anaerobic,,,Hamb,51.97,63.1,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Geisha honey,honey,,"cherry, jasmine, rum",Hamb,53.79,65.3,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,8,10,Cerro Azul Geisha natural,natural,,"jasmine, cantaloupe, peach",Hamb,57.42,69.71,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,3,10,Las Margaritas Sudan Rume natural,natural,,"cardamom, juniper, basil",Hamb,66.5,80.73,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,28,70,Los Bucaros Maragogype,washed,,"caramel, hazelnut, chocolate",Hamb,8.21,9.96,Factsheet,,2021-06-04
+COSTA RICA,ARABICA SPOT,122,69,SHB EP Las Trojas Superior,washed,,"caramel, hazelnut, cocoa",Hamb,5.25,6.38,,,2021-06-04
+COSTA RICA,ARABICA SPOT,350,69,SHB EP La Pastora Tarrazú,washed,,"caramel, honey, smooth",Hamb,5.44,6.6,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,42,69,"SHG EP ""Finca Los Naranjos""",washed,,"molasses, almond, chocolate",Hamb,3.69,4.48,,,2021-06-04
+EL SALVADOR,ARABICA SPOT,143,69,SHG EP Fairtrade,washed,FT,"nutty, almond, sugar cane",Hamb,3.85,4.67,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,45,69,Altura EP El Borbollon,washed,,"hazelnut, caramel, dark choc",Hamb,4.16,5.06,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,221,69,SHG EP Plus 'San Antonio',washed,,"caramel, hazelnut, dark choc",Hamb,4.4,5.34,,,2021-06-04
+ETHIOPIA,ARABICA SPOT,1,60,Sidamo Waru Grade 2,washed,,"lemon, kiwi, green apple",Hamb,4.94,6.0,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,88,60,Guji Shakiso Grade 2,washed,,"cane sugar, jasmine, raspberry",Hamb,5.12,6.22,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,50,60,Yirgacheffe Grade 2 Haileslassie Ambaye,washed,,"floral, tea like, bergamotte",Hamb,5.88,7.14,,,2021-06-04
+ETHIOPIA,ARABICA SPOT,300,60,Sidamo Grade 2 Organic,washed,ORG,"kumquat, kiwi, lemon",Hamb,5.98,7.26,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,14,60,Sidamo Grade 2 Fairtrade Organic,washed,FTO,"kumquat, kiwi, lemon",Hamb,6.03,7.32,,,2021-06-04
+GUATEMALA,ROBUSTA SPOT,564,69,El Pacifico,washed,,very soft,Hamb,3.64,4.42,Factsheet,,2021-06-04
+GUATEMALA,ARABICA SPOT,400,69,El Jaguar,washed,,"caramel, hazelnut",Hamb,4.96,6.03,Factsheet,,2021-06-04
+GUATEMALA,ARABICA SPOT,119,69,Capuchinas Genuine Antigua,washed,,"floral, nuts, caramel",Hamb,5.6,6.8,,,2021-06-04
+GUATEMALA,ARABICA SPOT,164,69,Plantation Pampojila,washed,RFA,"nectarine, brazil nut",Hamb,5.67,6.88,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,360,69,SHG EP Genuine Marcala,washed,,"caramell, nuts, milk choc",Hamb,4.4,5.34,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,440,69,Finca Rio Colorado,washed,,"nuts, choc, brown sugar",Hamb,4.56,5.54,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,100,69,SHG EP Marcala Organic,washed,ORG,"nuts, choc, caramell",Hamb,4.62,5.61,,,2021-06-04
+HONDURAS,ARABICA SPOT,25,69,SHG EP Organic UTZ,washed,UTZ,"caramell, nuts, milk choc",Hamb,4.66,5.65,Factsheet,,2021-06-04
+HONDURAS,DECAFFEINATED,14,60,Honduras SHG EP CO² Decaffeinated Organic,CO² decaf,ORG,"chocolate, caramel",Hamb,5.9,6.94,,,2021-06-04
+INDIA,ROBUSTA SPOT,116,60,Cherry AB,unwashed,,intense,Hamb,2.1,2.55,,,2021-06-04
+INDIA,ROBUSTA SPOT,310,60,Parchment PB Kodagu,washed,,soft,Hamb,2.54,3.09,,,2021-06-04
+INDIA,ROBUSTA SPOT,840,60,Parchment AB Kodagu,washed,,soft,Hamb,2.67,3.24,,,2021-06-04
+INDIA,ROBUSTA SPOT,700,60,Kaapi Royale A Screen 17 Kodagu,washed,,soft,Hamb,2.71,3.29,,,2021-06-04
+INDIA,ROBUSTA SPOT,34,60,Monsooned AA,unwashed,,medium,Hamb,3.07,3.73,,,2021-06-04
+INDIA,ARABICA SPOT,44,50,Monsooned Malabar Royal AA,unwashed,,"cedar wood, tabaco",Hamb,4.64,5.63,,,2021-06-04
+INDIA,ARABICA SPOT,228,60,"Plantation AA ""Bababudangiri""",washed,,"hazelnut, nougat, milk choc",Hamb,5.07,6.16,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,20,30,Java Ruby Rimbun,washed,,"watermelon, stone fruit",Hamb,11.11,13.49,Factsheet,,2021-06-04
+INDONESIA,ROBUSTA SPOT,55,60,Java Robusta sweet & mild,unwashed,,medium,Hamb,2.51,3.05,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,144,60,Sumatra Mandheling Permata Gayo Grade 1 DP,wet-hulled,,"cedar wood, almond",Hamb,4.03,4.89,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,100,60,Sumatra Mandheling Grade 1 DP Fairtrade Organic,wet-hulled,FTO,"cedar wood, almond",Hamb,4.49,5.45,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,33,60,Java Blawan Estate A/WP1-X,washed,,"chocolate, marzipan",Hamb,5.03,6.11,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,135,60,Java Jampit Estate A/WP1-X,washed,,"herbs, tabaco, nougat",Hamb,5.03,6.11,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,15,60,Java Mojang,washed,,"black tea, juicy, tropical",Hamb,5.48,6.66,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,34,60,Java Patuha Mountains,semi-washed,,"brazil nut, almond",Hamb,6.03,7.32,,,2021-06-04
+JAMAICA,ARABICA SPOT,5,15,Blue Mountain Grade 1 Wallendford Estate,washed,,"almond, nutty, creamy",Hamb,58.51,71.03,,,2021-06-04
+KENYA,ARABICA SPOT,100,69,AB Plus Meru,washed,,"dried tomato, blood orange",Hamb,7.48,9.08,Factsheet,,2021-06-04
+KENYA,ARABICA SPOT,66,69,AA Top Masai,washed,,"tomato, black currant",Hamb,8.14,9.88,Factsheet,,2021-06-04
+MEXICO,ARABICA SPOT,273,69,Finca el Flamingo Organic,washed,ORG,"caramel, almond, red apple",Hamb,4.86,5.89,Factsheet,,2021-06-04
+MEXICO,ARABICA SPOT,40,69,Maragogype Mayor,washed,,"herbal, rosemary, green tea finish",Hamb,7.54,9.15,,,2021-06-04
+NICARAGUA,ARABICA SPOT,100,69,Finca San Ramón Screen 18,washed,,"almond, lemon, tea like",Hamb,4.39,5.34,Factsheet,,2021-06-04
+PANAMA,ARABICA SPOT,3,15,Finca Los Limones natural,natural,,"blueberry, raisin, nougat",Hamb,23.19,28.15,Factsheet,,2021-06-04
+RWANDA,ARABICA SPOT,33,60,Rugali Screen 15up,washed,,"almond, green tea",Hamb,4.23,5.14,Factsheet,,2021-06-04
+UGANDA,ARABICA SPOT,280,60,Bugisu AB,washed,,,Hamb,3.98,4.84,,,2021-06-04
+BRAZIL,ARABICA SPOT,300,59,Santos NY2 17/18 s.s. fine cup Dulce,natural,,,Hamb,3.18,3.87,,,2021-06-04
+BRAZIL,ARABICA SPOT,220,59,Santos Aquarela NY2 17/18 s.s. fine cup,natural,,"chocolate, almond",Hamb,3.24,3.93,,,2021-06-04
+BRAZIL,ARABICA SPOT,400,59,Mogiana Bella Giana NY2 17/18 s.s. fine cup pulped natural,pulped natural,,cream,Hamb,3.38,4.11,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,67,59,Santos NY2 Screen 19 s.s. fine cup,natural,,"hazelnut, almond, milk chocolate",Hamb,3.67,4.46,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,16,59,Donas do Café Project NY2 16up pulped natural,pulped natural,,"fig, almond, cream",Hamb,3.76,4.56,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,2,59,Fazenda Primavera NY2 Screen 17/18 pulped natural,pulped natural,RFA,"caramel, nutty, milk chocolate",Hamb,3.8,4.62,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,90,59,Fazenda Mariano NY2 16up Yellow Bourbon pulped natural,pulped natural,,"almond, honey, chocolate",Hamb,3.85,4.67,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,25,59,Fazenda Passeio NY2 16up pulped natural,pulped natural,,"molasses, honey, floral",Hamb,4.18,5.07,Factsheet,,2021-06-04
+BRAZIL,ARABICA SPOT,8,59,Fazenda Capoeira 'Terra Preta' NY2 16up pulped natural,pulped natural,,"molasses, hazelnut, malic",Hamb,4.21,5.11,Factsheet,,2021-06-04
+BRAZIL,DECAFFEINATED,55,60,Cerrado Doce Diamantina NY2 16up DCM Decaffeinated,DCM decaf,,"nougat, roasted hazelnut, silky",Hamb,4.67,5.67,,,2021-06-04
+BRAZIL,DECAFFEINATED,94,60,Cerrado Doce Diamantina NY2 16up CO² Decaffeinated,CO² decaf,,"nougat, roasted hazelnut, silky",Hamb,5.22,6.33,,,2021-06-04
+BRAZIL,ARABICA SPOT,2,60,Fazendas Dutra NY2/3 14/16 s.s. fine cup Organic,natural,ORG,"molasses, caramel, milk chocolate",Hamb,5.91,7.17,,,2021-06-04
+COLOMBIA,ARABICA SPOT,26,10,Las Margaritas Red Bourbon honey,honey,,"mango, nougat, papaya",Hamb,14.84,18.01,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Geisha Hybrid double fermentation,hybrid,,"blackberry, Jasmine, lemongrass",Hamb,39.26,47.66,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,103,70,Hacienda La Claudina,washed,,"tropical, stone fruit, choc",Hamb,4.58,5.56,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,28,70,Excelso EP Rainforest Alliance,washed,RFA,"tropical, nuts, nougat, juicy",Hamb,4.71,5.72,,,2021-06-04
+COLOMBIA,ARABICA SPOT,577,70,Supremo EP Screen 17 Finca La Secreta,washed,,"mirabelle, papaya, herbal",Hamb,4.82,5.85,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,10,70,Supremo EP Screen 17 Huila 'Rafael',washed,,"chocolate, tropical, stone fruit",Hamb,4.84,5.87,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,190,70,Colombia Excelso EP Antioquia,washed,,"chocolate, tropical, stone fruit",Hamb,4.84,5.87,,,2021-06-04
+COLOMBIA,ARABICA SPOT,282,70,Excelso EP Palermo,washed,,"peach, cream, tropical fruits",Hamb,4.87,5.92,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Pacamara X.O.,natural,,"plum, dark chocolate, whisky",Hamb,44.71,54.28,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,3,70,Excelso EP Organic,washed,ORG,"tropical fruits, caramel",Hamb,5.16,6.27,,,2021-06-04
+COLOMBIA,DECAFFEINATED,9,60,Colombia Supremo Huila DCM Decaffeinated,DCM decaf,,"dark chocolate, almond",Hamb,5.78,7.02,,,2021-06-04
+COLOMBIA,ARABICA SPOT,14,10,Potosi Pink Bourbon natural anaerobic,anaerobic,,,Hamb,51.97,63.1,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,1,5,Las Margaritas Geisha honey,honey,,"cherry, jasmine, rum",Hamb,53.79,65.3,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,8,10,Cerro Azul Geisha natural,natural,,"jasmine, cantaloupe, peach",Hamb,57.42,69.71,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,3,10,Las Margaritas Sudan Rume natural,natural,,"cardamom, juniper, basil",Hamb,66.5,80.73,Factsheet,,2021-06-04
+COLOMBIA,ARABICA SPOT,28,70,Los Bucaros Maragogype,washed,,"caramel, hazelnut, chocolate",Hamb,8.21,9.96,Factsheet,,2021-06-04
+COSTA RICA,ARABICA SPOT,122,69,SHB EP Las Trojas Superior,washed,,"caramel, hazelnut, cocoa",Hamb,5.25,6.38,,,2021-06-04
+COSTA RICA,ARABICA SPOT,350,69,SHB EP La Pastora Tarrazú,washed,,"caramel, honey, smooth",Hamb,5.44,6.6,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,42,69,"SHG EP ""Finca Los Naranjos""",washed,,"molasses, almond, chocolate",Hamb,3.69,4.48,,,2021-06-04
+EL SALVADOR,ARABICA SPOT,143,69,SHG EP Fairtrade,washed,FT,"nutty, almond, sugar cane",Hamb,3.85,4.67,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,45,69,Altura EP El Borbollon,washed,,"hazelnut, caramel, dark choc",Hamb,4.16,5.06,Factsheet,,2021-06-04
+EL SALVADOR,ARABICA SPOT,221,69,SHG EP Plus 'San Antonio',washed,,"caramel, hazelnut, dark choc",Hamb,4.4,5.34,,,2021-06-04
+ETHIOPIA,ARABICA SPOT,1,60,Sidamo Waru Grade 2,washed,,"lemon, kiwi, green apple",Hamb,4.94,6.0,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,88,60,Guji Shakiso Grade 2,washed,,"cane sugar, jasmine, raspberry",Hamb,5.12,6.22,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,50,60,Yirgacheffe Grade 2 Haileslassie Ambaye,washed,,"floral, tea like, bergamotte",Hamb,5.88,7.14,,,2021-06-04
+ETHIOPIA,ARABICA SPOT,300,60,Sidamo Grade 2 Organic,washed,ORG,"kumquat, kiwi, lemon",Hamb,5.98,7.26,Factsheet,,2021-06-04
+ETHIOPIA,ARABICA SPOT,14,60,Sidamo Grade 2 Fairtrade Organic,washed,FTO,"kumquat, kiwi, lemon",Hamb,6.03,7.32,,,2021-06-04
+GUATEMALA,ROBUSTA SPOT,564,69,El Pacifico,washed,,very soft,Hamb,3.64,4.42,Factsheet,,2021-06-04
+GUATEMALA,ARABICA SPOT,400,69,El Jaguar,washed,,"caramel, hazelnut",Hamb,4.96,6.03,Factsheet,,2021-06-04
+GUATEMALA,ARABICA SPOT,119,69,Capuchinas Genuine Antigua,washed,,"floral, nuts, caramel",Hamb,5.6,6.8,,,2021-06-04
+GUATEMALA,ARABICA SPOT,164,69,Plantation Pampojila,washed,RFA,"nectarine, brazil nut",Hamb,5.67,6.88,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,360,69,SHG EP Genuine Marcala,washed,,"caramell, nuts, milk choc",Hamb,4.4,5.34,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,440,69,Finca Rio Colorado,washed,,"nuts, choc, brown sugar",Hamb,4.56,5.54,Factsheet,,2021-06-04
+HONDURAS,ARABICA SPOT,100,69,SHG EP Marcala Organic,washed,ORG,"nuts, choc, caramell",Hamb,4.62,5.61,,,2021-06-04
+HONDURAS,ARABICA SPOT,25,69,SHG EP Organic UTZ,washed,UTZ,"caramell, nuts, milk choc",Hamb,4.66,5.65,Factsheet,,2021-06-04
+HONDURAS,DECAFFEINATED,14,60,Honduras SHG EP CO² Decaffeinated Organic,CO² decaf,ORG,"chocolate, caramel",Hamb,5.9,6.94,,,2021-06-04
+INDIA,ROBUSTA SPOT,116,60,Cherry AB,unwashed,,intense,Hamb,2.1,2.55,,,2021-06-04
+INDIA,ROBUSTA SPOT,310,60,Parchment PB Kodagu,washed,,soft,Hamb,2.54,3.09,,,2021-06-04
+INDIA,ROBUSTA SPOT,840,60,Parchment AB Kodagu,washed,,soft,Hamb,2.67,3.24,,,2021-06-04
+INDIA,ROBUSTA SPOT,700,60,Kaapi Royale A Screen 17 Kodagu,washed,,soft,Hamb,2.71,3.29,,,2021-06-04
+INDIA,ROBUSTA SPOT,34,60,Monsooned AA,unwashed,,medium,Hamb,3.07,3.73,,,2021-06-04
+INDIA,ARABICA SPOT,44,50,Monsooned Malabar Royal AA,unwashed,,"cedar wood, tabaco",Hamb,4.64,5.63,,,2021-06-04
+INDIA,ARABICA SPOT,228,60,"Plantation AA ""Bababudangiri""",washed,,"hazelnut, nougat, milk choc",Hamb,5.07,6.16,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,20,30,Java Ruby Rimbun,washed,,"watermelon, stone fruit",Hamb,11.11,13.49,Factsheet,,2021-06-04
+INDONESIA,ROBUSTA SPOT,55,60,Java Robusta sweet & mild,unwashed,,medium,Hamb,2.51,3.05,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,144,60,Sumatra Mandheling Permata Gayo Grade 1 DP,wet-hulled,,"cedar wood, almond",Hamb,4.03,4.89,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,100,60,Sumatra Mandheling Grade 1 DP Fairtrade Organic,wet-hulled,FTO,"cedar wood, almond",Hamb,4.49,5.45,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,33,60,Java Blawan Estate A/WP1-X,washed,,"chocolate, marzipan",Hamb,5.03,6.11,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,135,60,Java Jampit Estate A/WP1-X,washed,,"herbs, tabaco, nougat",Hamb,5.03,6.11,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,15,60,Java Mojang,washed,,"black tea, juicy, tropical",Hamb,5.48,6.66,Factsheet,,2021-06-04
+INDONESIA,ARABICA SPOT,34,60,Java Patuha Mountains,semi-washed,,"brazil nut, almond",Hamb,6.03,7.32,,,2021-06-04
+JAMAICA,ARABICA SPOT,5,15,Blue Mountain Grade 1 Wallendford Estate,washed,,"almond, nutty, creamy",Hamb,58.51,71.03,,,2021-06-04
+KENYA,ARABICA SPOT,100,69,AB Plus Meru,washed,,"dried tomato, blood orange",Hamb,7.48,9.08,Factsheet,,2021-06-04
+KENYA,ARABICA SPOT,66,69,AA Top Masai,washed,,"tomato, black currant",Hamb,8.14,9.88,Factsheet,,2021-06-04
+MEXICO,ARABICA SPOT,273,69,Finca el Flamingo Organic,washed,ORG,"caramel, almond, red apple",Hamb,4.86,5.89,Factsheet,,2021-06-04
+MEXICO,ARABICA SPOT,40,69,Maragogype Mayor,washed,,"herbal, rosemary, green tea finish",Hamb,7.54,9.15,,,2021-06-04
+NICARAGUA,ARABICA SPOT,100,69,Finca San Ramón Screen 18,washed,,"almond, lemon, tea like",Hamb,4.39,5.34,Factsheet,,2021-06-04
+PANAMA,ARABICA SPOT,3,15,Finca Los Limones natural,natural,,"blueberry, raisin, nougat",Hamb,23.19,28.15,Factsheet,,2021-06-04
+RWANDA,ARABICA SPOT,33,60,Rugali Screen 15up,washed,,"almond, green tea",Hamb,4.23,5.14,Factsheet,,2021-06-04
+UGANDA,ARABICA SPOT,280,60,Bugisu AB,washed,,,Hamb,3.98,4.84,,,2021-06-04
